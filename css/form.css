@@ -1,0 +1,30 @@
+
+.slidingPersonal {
+    height:845px;
+    background-color:#FFF;
+    padding:20px;
+    margin-top:5px;
+    }
+.slidingOrganisation{
+	height:675px;
+    background-color: #FFF;
+    padding:20px;
+    margin-top:10px;
+	 }
+ 
+.show_hide_personal {
+    display:none;
+}
+.show_hide_organisation{
+	display:none;
+}
+
+.slidingContact {
+    height:100px;
+    background-color:none;
+    padding:20px;
+    margin-top:5px;
+}
+.show_hide_contact{
+    display:none;
+}
